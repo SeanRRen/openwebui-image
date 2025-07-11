@@ -13,7 +13,7 @@
 - [如何贡献](#如何贡献)
 
 ## 项目介绍
-[Open WebUI平台](https://github.com/open-webui/open-webui/)Open WebUI 是一个可扩展、功能丰富且用户友好的自托管AI平台，专为完全离线运行而设计。该平台支持多种LLM推理框架（如Ollama和OpenAI兼容API），并内置RAG推理引擎，是一款功能强大的AI部署解决方案。<br>
+[Open WebUI平台](https://github.com/open-webui/open-webui/) 是一个可扩展、功能丰富且用户友好的自托管AI平台，专为完全离线运行而设计。该平台支持多种LLM推理框架（如Ollama和OpenAI兼容API），并内置RAG推理引擎，是一款功能强大的AI部署解决方案。<br>
 本商品在鲲鹏云的上HCE2.0系统中进行安装后以镜像提供给用户使用。
 
 本项目提供的开源镜像商品 [**Open WebUI平台**](???)，已预先安装Open WebUI平台，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
