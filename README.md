@@ -16,7 +16,7 @@
 [Open WebUI Platform](https://github.com/open-webui/open-webui/) is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM inference frameworks (including Ollama and OpenAI-compatible APIs) with a built-in RAG inference engine, making it a powerful AI deployment solution.<br>
 This product is provided as a pre-installed image on Huawei Cloud's HCE2.0 system (Kunpeng architecture).
 
-This project offers the open-source image product [**Open WebUI Platform**](https://marketplace.huaweicloud.com/contents/), which comes pre-installed with Open WebUI and includes deployment templates. Follow our usage guide to enjoy an efficient "out-of-the-box" experience.
+This project offers the open-source image product [**Open WebUI Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293), which comes pre-installed with Open WebUI and includes deployment templates. Follow our usage guide to enjoy an efficient "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
