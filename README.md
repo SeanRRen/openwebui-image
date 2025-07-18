@@ -1,6 +1,6 @@
 # openwebui-v0.6.15-kunpeng
 ## Specification Description
-- Image Product: [Open WebUI](???)
+- Image Product: [Open WebUI](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293)
 - Image Specification: openwebui-v0.6.15-kunpeng
 - Compatibility: [ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU Architecture: ARM
