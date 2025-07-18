@@ -1,7 +1,7 @@
 ```markdown
 # Open WebUI Platform
 ## Product Link
-[Open WebUI Platform](????)
+[Open WebUI Platform](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293)
 
 ## Product Description
 [Open WebUI Platform](https://github.com/open-webui/open-webui/) is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. The platform supports various LLM inference frameworks (such as Ollama and OpenAI-compatible APIs) with a built-in RAG inference engine, making it a powerful AI deployment solution.<br>
