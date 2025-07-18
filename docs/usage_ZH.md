@@ -1,6 +1,6 @@
 # Open WebUI平台
 ## 商品连接
-[Open WebUI平台](???)
+[Open WebUI平台](https://marketplace.huaweicloud.com/hidden/contents/8ae48a35-d88c-48d9-9ca8-6e8f5e1ca2b2#productid=OFFI1151329161185636352)
 
 ## 商品说明
 [Open WebUI平台](https://github.com/open-webui/open-webui/)是一个可扩展、功能丰富且用户友好的自托管AI平台，专为完全离线运行而设计。该平台支持多种LLM推理框架（如Ollama和OpenAI兼容API），并内置RAG推理引擎，是一款功能强大的AI部署解决方案。<br>
